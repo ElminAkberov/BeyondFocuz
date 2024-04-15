@@ -1,0 +1,13 @@
+.main-bg{background: url("../assets/img/back.jpg")center/cover;}
+.about-bg{background: url("../assets/img/photographer_sunset.jpg")65% 35%/cover;height: 50vh;}
+.contact-bg{background:url("../assets/img/photographer-4k.jpg")65% 50%/cover; height: 50vh;}
+.fs-64{font-size: 64px !important;}
+.fs-45{font-size: 45px !important;}
+.opacity-10{opacity: 0.1;}
+.p-100{padding: 100px 0;}
+.box{box-shadow: 0 0 10px #333;}
+main .button-1{transition: .4s;}
+.button-1:hover{box-shadow: 0 0 10px #333;}
+main .button-2{transition: .4s;}
+.button-2:hover{box-shadow: 0 0 10px #fff;}
+.br-2{border-radius: 50%;}
